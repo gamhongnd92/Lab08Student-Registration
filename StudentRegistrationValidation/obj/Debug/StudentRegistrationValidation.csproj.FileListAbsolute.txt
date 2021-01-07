@@ -1,0 +1,75 @@
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.dll.config
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.dll
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.pdb
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.dll
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.dll
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.pdb
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.dll.config
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.xml
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csprojAssemblyReference.cache
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csproj.CoreCompileInputs.cache
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csproj.CopyComplete
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.dll
+C:\Users\viole\source\repos\lab08\Lab08Student Registration\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.pdb
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.dll.config
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.pdb
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.pdb
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.dll.config
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.xml
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csprojAssemblyReference.cache
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csproj.CoreCompileInputs.cache
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csproj.CopyComplete
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Downloads\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.pdb
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.dll.config
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.pdb
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.pdb
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.dll.config
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.xml
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csprojAssemblyReference.cache
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csproj.CoreCompileInputs.cache
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csproj.CopyComplete
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.pdb
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.dll.config
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.pdb
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.pdb
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.dll.config
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.xml
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csprojAssemblyReference.cache
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csproj.CoreCompileInputs.cache
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csproj.CopyComplete
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.dll
+C:\Users\lapshback.LAPTOP-PUTQMP1F\Desktop\CSIS4050_Projects\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.pdb
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.dll.config
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.dll
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationValidation.pdb
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.dll
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.dll
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.pdb
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\StudentRegistrationCodeFirstFromDB.dll.config
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.xml
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csprojAssemblyReference.cache
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csproj.CoreCompileInputs.cache
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.csproj.CopyComplete
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.dll
+C:\Gam\Desktop\Fall2020\CSIS4050\Labs\lab08GroupFinal\Lab08Student Registration (2)\Lab08Student Registration\StudentRegistrationValidation\obj\Debug\StudentRegistrationValidation.pdb
